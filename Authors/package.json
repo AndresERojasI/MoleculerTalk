@@ -1,0 +1,15 @@
+{
+  "name": "Authors",
+  "version": "1.0.0",
+  "description": "First Microservice",
+  "main": "index.js",
+  "author": "Arojas",
+  "license": "MIT",
+  "scripts": {
+    "start": "node moleculer.js"
+  },
+  "dependencies": {
+    "ioredis": "^4.11.1",
+    "moleculer": "^0.13.9"
+  }
+}
